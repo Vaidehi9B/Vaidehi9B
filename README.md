@@ -2,6 +2,8 @@
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on GitHub
+- I'm a digital marketing specialist
+
   
 
 <!---
